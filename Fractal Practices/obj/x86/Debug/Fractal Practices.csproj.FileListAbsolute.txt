@@ -1,0 +1,25 @@
+C:\Users\Hao\AppData\Local\Temporary Projects\Fractal Practices\obj\x86\Debug\Fractal_Practices.Form1.resources
+C:\Users\Hao\AppData\Local\Temporary Projects\Fractal Practices\obj\x86\Debug\Fractal_Practices.Properties.Resources.resources
+C:\Users\Hao\AppData\Local\Temporary Projects\Fractal Practices\obj\x86\Debug\Fractal Practices.csproj.GenerateResource.Cache
+C:\Users\Hao\AppData\Local\Temporary Projects\Fractal Practices\bin\Debug\Fractal Practices.exe
+C:\Users\Hao\AppData\Local\Temporary Projects\Fractal Practices\bin\Debug\Fractal Practices.pdb
+C:\Users\Hao\AppData\Local\Temporary Projects\Fractal Practices\obj\x86\Debug\Fractal Practices.exe
+C:\Users\Hao\AppData\Local\Temporary Projects\Fractal Practices\obj\x86\Debug\Fractal Practices.pdb
+C:\Users\Hao\Desktop\Fractal Practices\Fractal Practices\obj\x86\Debug\Fractal Practices.exe
+C:\Users\Hao\Desktop\Fractal Practices\Fractal Practices\obj\x86\Debug\Fractal Practices.pdb
+C:\Users\Hao\Desktop\Fractal Practices\Fractal Practices\bin\Debug\Fractal Practices.exe
+C:\Users\Hao\Desktop\Fractal Practices\Fractal Practices\bin\Debug\Fractal Practices.pdb
+C:\Users\Hao\Desktop\Fractal Practices\Fractal Practices\obj\x86\Debug\Fractal Practices.csprojResolveAssemblyReference.cache
+C:\Users\Hao\Desktop\Fractal Practices\Fractal Practices\obj\x86\Debug\Fractal_Practices.Form1.resources
+C:\Users\Hao\Desktop\Fractal Practices\Fractal Practices\obj\x86\Debug\Fractal_Practices.Properties.Resources.resources
+C:\Users\Hao\Desktop\Fractal Practices\Fractal Practices\obj\x86\Debug\Fractal Practices.csproj.GenerateResource.Cache
+D:\Hao_Jin\Fractal Practices\Fractal Practices\obj\x86\Debug\Fractal Practices.exe
+D:\Hao_Jin\Fractal Practices\Fractal Practices\obj\x86\Debug\Fractal Practices.pdb
+C:\Users\Owner\Desktop\Hao_Jin\Fractal Practices\Fractal Practices\obj\x86\Debug\Fractal Practices.exe
+C:\Users\Owner\Desktop\Hao_Jin\Fractal Practices\Fractal Practices\obj\x86\Debug\Fractal Practices.pdb
+C:\Users\Owner\Desktop\Hao_Jin\Fractal Practices\Fractal Practices\bin\Debug\Fractal Practices.exe
+C:\Users\Owner\Desktop\Hao_Jin\Fractal Practices\Fractal Practices\bin\Debug\Fractal Practices.pdb
+C:\Users\Owner\Desktop\Hao_Jin\Fractal Practices\Fractal Practices\obj\x86\Debug\Fractal Practices.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Desktop\Hao_Jin\Fractal Practices\Fractal Practices\obj\x86\Debug\Fractal_Practices.Form1.resources
+C:\Users\Owner\Desktop\Hao_Jin\Fractal Practices\Fractal Practices\obj\x86\Debug\Fractal_Practices.Properties.Resources.resources
+C:\Users\Owner\Desktop\Hao_Jin\Fractal Practices\Fractal Practices\obj\x86\Debug\Fractal Practices.csproj.GenerateResource.Cache
